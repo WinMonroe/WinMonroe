@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is the profile README for Win Monroe 👋
 
 <!--
 **WinMonroe/WinMonroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
